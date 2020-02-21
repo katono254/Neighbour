@@ -1,5 +1,5 @@
-# InstaSim
-#### Social media app, 06/02/2020
+# Neighbourwatch
+#### Hood watch, 22/02/2020
 #### By **Greg Katono**
 ## Description
 InstaSim is a social networking app made for sharing photos from a smartphone. It can be accessed using other devices such as laptops or gaming devices(playstations). Similar to Facebook or Twitter, everyone who creates an InstaSim account has a profile. When you post a photo InstaSim, it will be displayed on your profile.
