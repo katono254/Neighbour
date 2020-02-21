@@ -13,7 +13,7 @@ This is an app where users can view neighbours by signing in. It allows you to l
 The steps provided above requires you to add commands in you computer terminal.
 
 ## Known Bugs
-Their are not any bugs in the website.Incase you spot a bug you may request a pull request.
+
 
 ## Accessing the Admin page 
 USERNAME : Greg
