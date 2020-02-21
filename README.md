@@ -2,7 +2,7 @@
 #### Hood watch, 22/02/2020
 #### By **Greg Katono**
 ## Description
-InstaSim is a social networking app made for sharing photos from a smartphone. It can be accessed using other devices such as laptops or gaming devices(playstations). Similar to Facebook or Twitter, everyone who creates an InstaSim account has a profile. When you post a photo InstaSim, it will be displayed on your profile.
+This is an app where users can view neighbours by signing in. It allows you to loop about everything happening in your neighborhood. You view varrious neighbours, see police post and healthcare
 #### This is how you get the app...
 * First you need to clone the repository(the steps are provided in the github help settings).
 * Pip freeze the dependencies using pip freeze command
