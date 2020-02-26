@@ -38,9 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     #third party apps
+    'crispy_forms',
 
     #my app
-    'watch'
+    'watch',
 ]
 
 MIDDLEWARE = [
