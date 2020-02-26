@@ -58,8 +58,8 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'Neighbour.urls'
 
 UPLOADCARE = {
-    'pub_key': '2b709bca64245dd9e55e',
-    'secret': '0a60851de5f3db2dc728',
+    'pub_key': '011a865133d06fe84027',
+    'secret': '41731b44fbb99ffda204',
 }
 
 TEMPLATES = [
