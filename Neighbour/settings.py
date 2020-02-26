@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     #third party apps
     'crispy_forms',
     'pyuploadcare.dj',
-
     #my app
     'watch',
 ]
