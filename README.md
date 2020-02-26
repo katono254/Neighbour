@@ -1,5 +1,5 @@
 # Neighbourwatch
-#### Hood watch, 22/02/2020
+#### NeighbourWatch, 22/02/2020
 #### By **Greg Katono**
 ## Description
 This is an app where users can view neighbours by signing in. It allows you to loop about everything happening in your neighborhood. You view varrious neighbours, see police post and healthcare
